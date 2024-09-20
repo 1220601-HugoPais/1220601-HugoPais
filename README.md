@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1220601-HugoPais
 - 👀 I’m interested in getting my degree
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning informatics engineering
 - 💞️ I’m looking to collaborate on getting my degree
 - 📫 How to reach me 1220601@isep.ipp.pt
 - 😄 Pronouns: sir/legend
